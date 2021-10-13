@@ -2,3 +2,8 @@
 	path = CLFProgrramer/attendance
 	url = git@github.com:CLFProgrramer/attendance.git
 	branch = main
+
+[submodule "CLFProgrramer/attendance1"]
+	path = CLFProgrramer/attendance1
+	url = git@github.com:CLFProgrramer/attendance.git
+	branch = main
